@@ -1,0 +1,13 @@
+@model Post
+@* <a href="/success">Return to Blog</a> *@
+
+<form asp-controller="Post" asp-action="editPost" asp-route-pId="@Model.PostId">
+    <div class="form-group">
+        <span class="text-danger font-weight-bold" asp-validation-for="Content"></span>
+        <label>Edit your story here</label>
+        <br>
+        <textarea class="form-control" asp-for="Content"></textarea>
+        <br>
+        <button class="btn btn-outline-dark">Submit</button>
+    </div>
+</form>

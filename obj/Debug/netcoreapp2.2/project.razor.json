@@ -2966,13 +2966,33 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Shared/_LoginPartial.cshtml",
-      "TargetPath": "Views/Shared/_LoginPartial.cshtml",
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/LoginReg.cshtml",
+      "TargetPath": "Views/Home/LoginReg.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Post/edit.cshtml",
+      "TargetPath": "Views/Post/edit.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Post/success.cshtml",
+      "TargetPath": "Views/Post/success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/AboutUs.cshtml",
+      "TargetPath": "Views/Home/AboutUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Product/AllProducts.cshtml",
+      "TargetPath": "Views/Product/AllProducts.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2996,8 +3016,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/Reg.cshtml",
+      "TargetPath": "Views/Home/Reg.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/Privacy.cshtml",
       "TargetPath": "Views/Home/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/Login.cshtml",
+      "TargetPath": "Views/Home/Login.cshtml",
       "FileKind": "mvc"
     },
     {

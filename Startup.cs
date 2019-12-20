@@ -22,18 +22,14 @@ namespace Roastío
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
-      services.Configure<CookiePolicyOptions>(options =>
-      {
-        // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-        options.CheckConsentNeeded = context => true;
-        options.MinimumSameSitePolicy = SameSiteMode.None;
-      });
+
+
 
       services.AddSession();
       services.AddHttpContextAccessor();
-      services.AddDbContext<MyContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+      // services.AddDbContext<MyContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
       services.AddDbContext<MyContext>(options => options.UseMySql(Configuration["DBInfo:ConnectionString"]));
-      services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<MyContext>().AddDefaultTokenProviders();
+      // services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<MyContext>().AddDefaultTokenProviders();
       services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
     }
 
@@ -51,10 +47,8 @@ namespace Roastío
         app.UseHsts();
       }
 
-      app.UseHttpsRedirection();
+      app.UseSession();
       app.UseStaticFiles();
-      app.UseCookiePolicy();
-
       app.UseMvc(routes =>
       {
         routes.MapRoute(

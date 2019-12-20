@@ -28,3 +28,10 @@
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Roastío.dll
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Roastío.pdb
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Roastío.csproj.CopyComplete
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/Login.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/Reg.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Post/edit.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Post/success.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/LoginReg.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Product/AllProducts.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/AboutUs.g.cshtml.cs
