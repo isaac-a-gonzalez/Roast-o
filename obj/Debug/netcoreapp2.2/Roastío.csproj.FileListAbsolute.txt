@@ -35,3 +35,4 @@
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/LoginReg.g.cshtml.cs
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Product/AllProducts.g.cshtml.cs
 /Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Home/AboutUs.g.cshtml.cs
+/Users/isaac/Desktop/C#/Roastío/obj/Debug/netcoreapp2.2/Razor/Views/Product/OneProduct.g.cshtml.cs

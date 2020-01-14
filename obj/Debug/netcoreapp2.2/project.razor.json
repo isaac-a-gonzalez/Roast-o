@@ -2966,6 +2966,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Product/OneProduct.cshtml",
+      "TargetPath": "Views/Product/OneProduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/isaac/Desktop/C#/Roastío/Views/Home/LoginReg.cshtml",
       "TargetPath": "Views/Home/LoginReg.cshtml",
       "FileKind": "mvc"
